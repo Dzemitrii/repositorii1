@@ -5,5 +5,7 @@ public class Lb4 {
         System.out.println("Hello person");
         System.out.println("Hello Dmitrii");
         System.out.println("Hello Slawa");
+        System.out.println("Hello Git");
+       
         }
     }
