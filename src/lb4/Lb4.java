@@ -6,6 +6,6 @@ public class Lb4 {
         System.out.println("Hello Dmitrii");
         System.out.println("Hello Slawa");
         System.out.println("Hello Git");
-       
+       System.out.println("Hello Neo");
         }
     }
